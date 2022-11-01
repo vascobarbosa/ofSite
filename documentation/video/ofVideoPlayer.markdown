@@ -845,7 +845,7 @@ _advanced: False_
 
 _inlined_description: _
 
-
+return the position of the video from .0 1.
 
 
 
