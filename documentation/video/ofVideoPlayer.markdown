@@ -370,7 +370,7 @@ _advanced: False_
 _inlined_description: _
 
 
-
+get the total video duration in seconds
 
 
 
